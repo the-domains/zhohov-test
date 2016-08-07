@@ -1,0 +1,14 @@
+layout_spectrum: 0.8187554224859923
+typography_spectrum: 0.06358543736860156
+color:
+  brandStrength: 0.6334932309109718
+  lightness: 0.7319669919088483
+  saturation: 0.4872042469214648
+  rhythmicContrast: 0.3790837745182216
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: zhohov test
